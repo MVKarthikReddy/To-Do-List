@@ -35,7 +35,7 @@ Before you begin, make sure you have the following:
 
 ```bash
 git clone [https://github.com/MVKarthikReddy/To-Do-List.git]
-cd todo-react-app
+cd To-Do-List
 ```
 
 2. Install project dependencies:
